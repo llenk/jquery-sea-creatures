@@ -8,7 +8,7 @@ Think of your commit messages as starting "this will"
  ```
  git push --set-upstream origin master
  ```
- This will set an upstream version that connects it.
+ This will set an upstream version that connects it, so you just have to type 'git push' from then on.
 
  ## terminal notes
  option-click to move cursor on terminal
