@@ -12,3 +12,6 @@ Think of your commit messages as starting "this will"
 
  ## terminal notes
  option-click to move cursor on terminal
+
+ ## html notes
+ spans are like divs with fewer consequences
